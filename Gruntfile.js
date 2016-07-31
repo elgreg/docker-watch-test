@@ -21,7 +21,7 @@ module.exports = function(grunt) {
       },
     },
     watch: {
-      files: ['/opt/test-src/src/js/*.js','/opt/test-src/src/moar_js/*.js'],
+      files: ['/opt/test-src/src/**/*.js'],
       tasks: ['jshint:all', 'uglify'],
     },
   });
