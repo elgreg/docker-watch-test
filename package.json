@@ -2,7 +2,7 @@
   "name": "test-build-process",
   "version": "0.0.1",
   "description": "Test build process for determining Docker CPU issues",
-  "author": "Greg Lavallee <greglavallee@gmail.com",
+  "author": "Greg Lavallee <greg.lavallee@slate.com",
   "contributors": [],
   "dependencies": {
     "express": "4.2.x"
