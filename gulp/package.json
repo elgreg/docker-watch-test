@@ -1,0 +1,15 @@
+{
+  "name": "test-gulp-process",
+  "version": "0.0.1",
+  "description": "Test build process for determining Docker CPU issues with gulp",
+  "author": "Greg Lavallee <greg.lavallee@slate.com",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-cli": "*",
+    "gulp-jshint": "*"
+  },
+  "preferGlobal": false,
+  "private": true
+}

@@ -1,7 +1,7 @@
 {
-  "name": "test-build-process",
+  "name": "test-grunt-watch",
   "version": "0.0.1",
-  "description": "Test build process for determining Docker CPU issues",
+  "description": "Test build process for determining Docker CPU issues with grunt",
   "author": "Greg Lavallee <greg.lavallee@slate.com",
   "contributors": [],
   "dependencies": {},
